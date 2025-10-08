@@ -1,5 +1,3 @@
-
-
 data = input().split(" ")
 
 stock = {}
